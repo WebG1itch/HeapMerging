@@ -1,4 +1,4 @@
-The program itself is pretty simple to run. Simply type 'make' in tesla and it will print 
+The program itself is pretty simple to run. Simply type 'make' and it will print 
 
 The program will print out the heap in an array representation.
 
